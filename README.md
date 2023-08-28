@@ -1,10 +1,10 @@
 ### Opa bão, eu sou Jessé Alves, estudante de programação. 👋
 
 <a href="https://github.com/jessalvess/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jessalvess&show_icons=true&theme=radical">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jessalvess&show_icons=true&theme=dark&rank_icon=github">
 </a>
 <a href="https://github.com/jessalvess/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jessalvess&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jessalvess&layout=compact&langs_count=8&card_width=300" />
 </a>
 
 <!--
