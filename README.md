@@ -1,5 +1,12 @@
 ### Opa bão, eu sou Jessé Alves, estudante de programação. 👋
 
+<a href="https://github.com/jessalvess/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jessalves" />
+</a>
+<a href="https://github.com/jessalvess/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jessalves&layout=compact&langs_count=8&card_width=320" />
+</a>
+
 ![Jesse's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessalvess&show_icons=true&theme=radical)
 <!--
 **JessAlvess/JessAlvess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
