@@ -1,6 +1,6 @@
 ### Opa bão, eu sou Jessé Alves, estudante de programação. 👋
 ---
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessealves1/ "Meu linkedin")
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessealves1 "Meu linkedin")
 ***
 <div>
 <a href="https://github.com/jessalvess/github-readme-stats">
