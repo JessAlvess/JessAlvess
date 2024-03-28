@@ -1,4 +1,4 @@
-### Hello, I'm Jessé Alves, Web Developer Fullstack. 👋
+### Olá, eu sou Jessé Alves, Desenvolvedor de Software Fullstack. 👋
 ---
 Tenho formação técnica em Desenvolvimento de Sistemas e atualmente estou cursando o curso de desenvolvimento fullstack na Cubos Academy.
 ***
