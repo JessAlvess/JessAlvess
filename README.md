@@ -1,7 +1,7 @@
 ### Hello, I'm Jessé Alves, Web Developer Fullstack. 👋
-
-Tenho formação técnica em Desenvolvimento de Sistemas e atualmente estou cursando o curso de desenvolvimento fullstack na Cubos Academy.
 ---
+Tenho formação técnica em Desenvolvimento de Sistemas e atualmente estou cursando o curso de desenvolvimento fullstack na Cubos Academy.
+***
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessealves1 "Meu linkedin")
 ***
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
